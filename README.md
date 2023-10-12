@@ -11,3 +11,9 @@
 #### Conclusiones ejercicio 12:
 Al hacer la masa de la esfera 10 veces mayor, el cilindor la empuja muy poco, y si es al revés, la empuja fácilmente. Si hago la esfera cinemática, está no se mueve. Al duplicar la 
 fricción no pasaría nada porque por defecto es cero. pero cuanto mas alta la fricción, más lento cae la esfera.
+
+En este gif se muestra como se mueve la esfera y las fisicas de los objetos, que el cubo y el nuevo cilindro persigan a otros objetos esta desactivado
+
+![fisicas](Unity_5noTS2CpAR.gif)
+
+
