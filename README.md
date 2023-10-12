@@ -17,5 +17,7 @@ En este gif se muestra como se mueve la esfera y las fisicas de los objetos, que
 ![fisicas](Unity_5noTS2CpAR.gif)
 
 
+En este otro, se activan la persecución del cilindro y del cubo
 
+![persecucion](Unity_9FYCUu9uZE.gif)
 
